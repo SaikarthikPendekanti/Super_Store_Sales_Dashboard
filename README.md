@@ -5,15 +5,11 @@ This project presents an interactive Power BI dashboard built using the Supersto
 The dataset contains detailed sales records from a retail superstore, including transaction-level data across multiple dimensions such as customers, products, and regions. It includes fields like Order ID, Customer ID, Product Category, Sub-Category, Sales Amount, Profit, Quantity, Discount, Order Date, Ship Date, Segment, and Region. This rich, structured dataset supports comprehensive analysis of sales trends, customer behavior, and product-level performance.
 
 🛠 Tools & Technologies Used
-Power BI Desktop
-
-Power Query (ETL)
-
-DAX (Data Analysis Expressions)
-
-Microsoft Excel / CSV dataset
-
-Data Modeling (Relationships, Star Schema)
+* Power BI Desktop
+* Power Query (ETL)
+* DAX (Data Analysis Expressions)
+* Microsoft Excel / CSV dataset
+* Data Modeling (Relationships, Star Schema)
 
 🚀 Key Insights Generated
 Top-performing product categories and regions.
