@@ -1,30 +1,22 @@
-This project showcases an interactive Power BI dashboard developed to analyze Super Store sales performance.
-The goal is to transform raw sales data into meaningful business insights by examining:
+📊 Super Store Sales Dashboard – Power BI
+This project presents an interactive Power BI dashboard built using the Superstore Sales Dataset, designed to analyze key business metrics such as sales performance, customer trends, product profitability, and regional insights. The goal of this project is to transform raw data into meaningful visualizations that support business decision-making.
 
-Sales trends
+📁 Dataset Information
+The dataset contains detailed sales records from a retail superstore, including transaction-level data across multiple dimensions such as customers, products, and regions. It includes fields like Order ID, Customer ID, Product Category, Sub-Category, Sales Amount, Profit, Quantity, Discount, Order Date, Ship Date, Segment, and Region. This rich, structured dataset supports comprehensive analysis of sales trends, customer behavior, and product-level performance.
 
-Profitability
+🛠 Tools & Technologies Used
+Power BI Desktop
+Power Query (ETL)
+DAX (Data Analysis Expressions)
+Microsoft Excel / CSV dataset
+Data Modeling (Relationships, Star Schema)
 
-Product performance
+🚀 Key Insights Generated
+Top-performing product categories and regions.
+Profitability weaknesses due to high discounts.
+Seasonal sales trends showing peak buying periods.
+Customer segments contributing the highest revenue.
+Sub-categories with negative profit margins requiring price/discount optimization.
 
-Regional and customer analytics
-
-Operational metrics like shipping and order behavior
-
-The dashboard is designed to help business users make informed decisions, identify growth opportunities, and detect problem areas like low-profit product categories or poor-performing regions.
-The dataset contains 5,901 rows and 23 columns with detailed sales information from the Super Store, including order dates, shipping details, customer names, segments, and geographic fields such as city, state, and region. It also includes product-related data like category, sub-category, and product name, along with key sales metrics such as sales amount, quantity, profit, returns, and payment mode. This combination of order, customer, location, and product fields provides a complete view of sales performance suitable for creating a Power BI analytics dashboard.
-The Super Store Sales Dashboard is a complete business intelligence solution offering deep insights into sales performance, customer trends, and product profitability.
-This project demonstrates competence in:
-
-Data modeling
-
-Data visualization
-
-Dashboard design
-
-Analytical storytelling
-
-Power BI development
-
-It serves as an excellent tool for business decision-making and performance optimization.
-<img width="750" height="432" alt="image" src="https://github.com/user-attachments/assets/f60ceeb1-c269-4fa9-b5b1-32bfbf508033" />
+Overall, the Super Store Sales Dashboard demonstrates strong skills in data modeling, data cleaning, dashboard development, and analytical storytelling using Power BI. It provides businesses with a powerful tool to monitor performance, uncover insights, and make informed decisions based on real-time data interactions. The project is ideal for showcasing business intelligence capabilities and delivering value through clear, data-driven insights.
+![superstore_sales_dashboard](https://github.com/user-attachments/assets/8f29b776-5520-4dd0-95f5-c0c1521d1440)
