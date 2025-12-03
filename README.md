@@ -6,9 +6,13 @@ The dataset contains detailed sales records from a retail superstore, including 
 
 🛠 Tools & Technologies Used
 Power BI Desktop
+
 Power Query (ETL)
+
 DAX (Data Analysis Expressions)
+
 Microsoft Excel / CSV dataset
+
 Data Modeling (Relationships, Star Schema)
 
 🚀 Key Insights Generated
