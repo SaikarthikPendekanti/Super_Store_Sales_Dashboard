@@ -12,11 +12,11 @@ The dataset contains detailed sales records from a retail superstore, including 
 * Data Modeling (Relationships, Star Schema)
 
 🚀 Key Insights Generated
-Top-performing product categories and regions.
-Profitability weaknesses due to high discounts.
-Seasonal sales trends showing peak buying periods.
-Customer segments contributing the highest revenue.
-Sub-categories with negative profit margins requiring price/discount optimization.
+* Top-performing product categories and regions.
+* Profitability weaknesses due to high discounts.
+* Seasonal sales trends showing peak buying periods.
+* Customer segments contributing the highest revenue.
+* Sub-categories with negative profit margins requiring price/discount optimization.
 
 Overall, the Super Store Sales Dashboard demonstrates strong skills in data modeling, data cleaning, dashboard development, and analytical storytelling using Power BI. It provides businesses with a powerful tool to monitor performance, uncover insights, and make informed decisions based on real-time data interactions. The project is ideal for showcasing business intelligence capabilities and delivering value through clear, data-driven insights.
 
