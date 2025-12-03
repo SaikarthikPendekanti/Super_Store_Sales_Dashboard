@@ -1,4 +1,4 @@
-<center>📊 Super Store Sales Dashboard – Power BI</center>
+<center><h1>📊 Super Store Sales Dashboard – Power BI</h1></center>
 This project presents an interactive Power BI dashboard built using the Superstore Sales Dataset, designed to analyze key business metrics such as sales performance, customer trends, product profitability, and regional insights. The goal of this project is to transform raw data into meaningful visualizations that support business decision-making.
 
 📁 Dataset Information
